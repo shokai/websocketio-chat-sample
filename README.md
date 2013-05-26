@@ -18,11 +18,3 @@ Run
     % foreman start
 
 => http://localhost:5000
-
-
-Deploy
-------
-
-    % heroku create --stack cedar
-    % git push heroku master
-    % heroku open
